@@ -3,7 +3,7 @@ var friends = [
 
 {
 	name: "Miriam",
-	photo:"mmmmmmm",
+	photo:"The Queen",
 	scores: [
 		"5",
 		"3",
@@ -20,7 +20,7 @@ var friends = [
 
 {
 	name: "Mia",
-	photo:"princess",
+	photo:"The Princess",
 	scores: [
 		"3",
 		"2",
@@ -37,7 +37,7 @@ var friends = [
 
 {
 	name: "Mazen",
-	photo:"handsome",
+	photo:"Mr. Handsome",
 	scores: [
 		"2",
 		"5",
@@ -54,7 +54,7 @@ var friends = [
 
 {
 	name: "Natalie",
-	photo:"nurse",
+	photo:"The Nurse",
 	scores: [
 		"5",
 		"3",
